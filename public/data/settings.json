@@ -1,0 +1,92 @@
+{
+    "developerSettings": {
+        "debugMode": false,
+        "fakeEmailRequests": false,
+        "stayOnThePreloaderScreen": false,
+        "version": "1.0.0"
+    },
+    "preloaderSettings": {
+        "enabled": true,
+        "title": "Mauricio <b stlye='margin-left: 3px'>Tovanche</b>",
+        "subtitle": "SYSOP",
+        "logoOffset": {
+            "right": 14,
+            "top": -12,
+            "bottom": 4
+        }
+    },
+    "templateSettings": {
+        "animatedCursorEnabled": true,
+        "backgroundStyle": "animated",
+        "defaultLanguageId": "en",
+        "defaultThemeId": "dark",
+        "fullscreenEnabled": true,
+        "showSpinnerOnThemeChange": false
+    },
+
+    "supportedLanguages": [
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en-us.png"
+        },
+        {
+            "name": "Español",
+            "id": "es",
+            "flagUrl": "images/flags/es.png"
+        },
+        {
+            "name": "Français",
+            "id": "fr",
+            "flagUrl": "images/flags/fr.png"
+        },
+        {
+            "name": "한국어",
+            "id": "ko",
+            "flagUrl": "images/flags/ko.png"
+        }
+    ],
+    "supportedThemes": [
+        {
+            "id": "dark",
+            "icon": "fa-solid fa-moon",
+            "dark": true,
+            "locales": {
+                "en": {"name": "Dark Mode"},
+                "es": {"name": "Modo Oscuro"},
+                "fr": {"name": "Mode Sombre"},
+                "ko": {"name": "다크 모드"}
+            }
+        },
+        {
+            "id": "light",
+            "icon": "fa-solid fa-sun",
+            "dark": false,
+            "locales": {
+                "en": {"name": "Light Mode"},
+                "es": {"name": "Modo Claro"},
+                "fr": {"name": "Mode Clair"},
+                "ko": {"name": "라이트 모드"}
+            }
+        }
+    ],
+    "consoleMessageForDevelopers": {
+        "title": "🖥️ Hey there, fellow developer!",
+        "items": [
+            {
+                "description": "This is an open-source template based on the React framework.",
+                "list": [],
+                "listStyle": "none"
+            },
+            {
+                "description": "Like what you see? Let's connect!",
+                "list": [
+                    "GitHub: https://github.com/username",
+                    "Website: https://website.com"
+                ],
+                "listStyle": "bulleted"
+            }
+        ]
+    },
+    "imagesToCache": []
+}
