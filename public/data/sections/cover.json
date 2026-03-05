@@ -3,11 +3,43 @@
         "locales": {
             "en": {
                 "title_short": "Title",
-                "title_short_nav": "Title Nav",
+                "title_short_nav": "Sobre mi",
                 "title_long_prefix": "This is a",
-                "title_long": "Placeholder {{Title}}"
+                "title_long": "Placeholder {{Sobre mí}}"
             }
         }
     },
-    "articles": []
+    "articles": [
+        {
+    "id": 1,
+    "component": "ArticleInlineList",
+    "locales": {},
+    "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "display_as_list_if_width_is_lower_than": 380
+    },
+    "items": [
+        {
+            "id": 1,
+            "label": "Saltillo Coahuila, México",
+            "link": {"href": "", "tooltipString": ""},
+            "faIcon": "fa-regular fa-address-book"
+        },
+        {
+            "id": 2,
+            "label": "mt0v4nch3@gmail.com",
+            "link": {"href": "mt0v4nch3@gmail.com", "tooltipString": "email_me"},
+            "faIcon": "fa-regular fa-envelope"
+        },
+        {
+    "id": 3,
+    "label": "in/mauriciotovanche",
+    "link": {"href": "https://www.linkedin.com/in/mauricio-zeferino-tovanche-flores-811534a8/", "tooltipString": ""},
+    "faIcon": "fa-brands fa-linkedin"
+}
+        
+    ]
+}
+    ]
 }

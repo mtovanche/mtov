@@ -3,7 +3,7 @@
         "locales": {
             "en": {
                 "title_short": "Title",
-                "title_short_nav": "Title Nav",
+                "title_short_nav": "Experiencia",
                 "title_long_prefix": "This is a",
                 "title_long": "Placeholder {{Title}}"
             }

@@ -1,17 +1,17 @@
 {
-    "name": "John Doe",
-    "profilePictureUrl": "images/pictures/pfp.png",
+    "name": "Mauricio Tovanche",
+    "profilePictureUrl": "images/content/mtov.jpg",
     "resumePdfUrl": "",
     "statusCircleVisible": true,
     "statusCircleVariant": "available",
     "statusCircleHoverMessage": "status_message_available_for_freelance",
     "locales": {
         "en": {
-            "localized_name": "John Doe",
-            "localized_name_stylized": "<strong>John {{Doe}}</strong>",
+            "localized_name": "Mauricio Tovanche",
+            "localized_name_stylized": "<strong>Mauricio {{Tovanche}}</strong>",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
-                "Procrastinator"
+                "SYSOP"
             ],
             "name_pronunciation_ipa": "",
             "name_pronunciation_audio_url": ""
