@@ -9,5 +9,148 @@
             }
         }
     },
-    "articles": []
+    "articles": [
+        {
+    "id": 1,
+    "component": "ArticleTimeline",
+    "locales": {
+        "en": {
+            "title": "My {{timeline}}"
+        }
+    },
+    "settings": {
+        "order_items_by": "dateStart",
+        "order_items_sort": "desc"
+    },
+    "items": [
+        {
+            "id": 1,
+            "img": "",
+            "faIcon": "fa-brands fa-brands fa-usb",
+            "faIconColors": {"bg": "#000", "bgLight": "#000", "fill": "#FFF", "fillLight": "#FFF"},
+            "dateStart": {"year": 2009, "month": 2},
+            "dateEnd": {"year": 2013, "month": 12},
+            "locales": {
+                "es": {
+                    "title": "Soporte {{Técnico}} en Sistemas ",
+                    "province": "Saltillo Coahuila",
+                    "country": "México",
+                    "institution": "Tesorería de la Universidad Autónoma de Coahuila ",
+                    "text": "Conocimientos adquiridos en este periodo:",
+                    "list": [
+                        "Soporte técnico presencial a empleados del área de Tesorería.",
+                        "Configuración de cuentas de correo",
+                        "Mantenimiento preventivo y correctivo a equipos de cómputo he impresoras.",
+                        "Formateo, respaldo de información y recuperación de archivos.",
+                        "Configuración de impresoras locales y en red.",
+                        "Conocimientos de sistemas operativos Windows (XP, Vista, W7, W8, server 2008) y Paquetería de Office (2003, 2007, 2010,2013).",
+                        "Administración de Active Directory",
+                        "Virtualziación VMWare"
+                    ]
+                }
+            }
+        },
+        {
+            "id": 2,
+            "img": "",
+            "faIcon": "fa-brands fa-brands fa-usb",
+            "faIconColors": {"bg": "#000", "bgLight": "#000", "fill": "#FFF", "fillLight": "#FFF"},
+            "dateStart": {"year": 2014, "month":1},
+            "dateEnd": {"year": 2015, "month": 6},
+            "locales": {
+                "es": {
+                    "title": "Soporte {{Técnico}} en Sistemas ",
+                    "province": "Saltillo Coahuila",
+                    "country": "México",
+                    "institution": "Coordinación General de Tecnologías de Información y Comunicaciones (UAdeC)",
+                    "text": "Subcoordinación de Servicios y Sistemas Operativos (SYSOP) Conocimientos adquiridos en este periodo:",
+                    "text": "Subcoordinación de Servicios y Sistemas Operativos (SYSOP) Conocimientos adquiridos en este periodo:",
+                    "list": [
+                        "Administración de servidores Windows, Linux",
+                        "Mantenimiento preventivo y correctivo",
+                        "Atención a usuarios de office 365",
+                        "Configuración de redes y equipos de cómputo",
+                        "Recuperación y respaldo de información.",
+                        "Virtualización: VMWare, VirtualBox, Hyper-V."
+                    ]
+                }
+            }
+        },
+         {
+            "id": 3,
+            "img": "",
+            "faIcon": "fa-brands fa-brands fa-usb",
+            "faIconColors": {"bg": "#000", "bgLight": "#000", "fill": "#FFF", "fillLight": "#FFF"},
+            "dateStart": {"year": 2015, "month": 6},
+            "dateEnd": {"year": 2016, "month": 3},
+            "locales": {
+                "es": {
+                    "title": "{{}}",
+                    "province": "Saltillo Coahuila",
+                    "country": "México",
+                    "institution": "Proyecto México Conectado (UAdeC)",
+                    "text": "Conocimientos adquiridos en este periodo:",
+                    "list": [
+                        "Supervisión de sitios remota y presencial",
+                        "Pruebas en sitios",
+                        "Pruebas de app para el registro de sitios"
+                    ]
+                }
+            }
+        },
+
+         {
+            "id": 4,
+            "img": "",
+            "faIcon": "fa-brands fa-brands fa-usb",
+            "faIconColors": {"bg": "#000", "bgLight": "#000", "fill": "#FFF", "fillLight": "#FFF"},
+            "dateStart": {"year": 2016, "month": 6},
+            "dateEnd": {"now": true},
+            "locales": {
+                "es": {
+                    "title": "Administración de{{ Servidores}}",
+                    "province": "Saltillo Coahuila",
+                    "country": "México",
+                    "institution": "Coordinación General de Tecnologías de Información y Comunicaciones (CGTIC) (UAdeC)",
+                    "text": "Subcoordinación de Servicios y Sistemas Operativos. Conocimientos adquiridos en este periodo:",
+                    "list": [
+                        "Supervisión de sitios remota y presencial",
+                        "Curso para certificación CEH 8",
+                        "Certificación Microsoft",
+                        "Photoshop",
+                        "HTML, CSS, Boostrap",
+                        "PHP"
+                    ]
+                }
+            }
+        },
+         {
+            "id": 5,
+            "img": "",
+            "faIcon": "fa-brands fa-brands fa-usb",
+            "faIconColors": {"bg": "#000", "bgLight": "#000", "fill": "#FFF", "fillLight": "#FFF"},
+            "dateStart": {"year": 2020, "month": 10},
+            "dateEnd": {"now": true},
+            "locales": {
+                "es": {
+                    "title": "Administración de{{ Servidores}} Centro de Computo CIMA",
+                    "province": "Saltillo Coahuila",
+                    "country": "México",
+                    "institution": "Centro de Investigación de Matemáticas Aplicadas (UAdeC)",
+                    "text": "Conocimientos adquiridos en este periodo:",
+                    "list": [
+                        "Supervisión de sitios remota y presencial",
+                        "Desarrollo Web",
+                        "CANVA",
+                        "Photoshop",
+                        "HTML, CSS, Boostrap",
+                        "PHP",
+                        "Python, javascript basico"
+                    ]
+                }
+            }
+        }
+    ]
+}
+    ]
 }
