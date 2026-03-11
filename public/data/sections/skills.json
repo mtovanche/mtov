@@ -9,5 +9,105 @@
             }
         }
     },
-    "articles": []
+    "articles": [
+      {
+    "id": 1,
+    "component": "ArticleStack",
+    "locales": {
+        "en": {"title": "{{Backend}} Stack"}
+    },
+    "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+    },
+    "items": [
+        {
+            "id": 1,
+            "img": "",
+            "faIcon": "fa-brands fa-node-js",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#339933", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "Node.js"
+                }
+            }
+        },
+
+        {
+            "id": 2,
+            "img": "",
+            "faIcon": "fa-solid fa-database",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#0295c2", "fillLight": "#007396"},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "MySQL"
+                }
+            }
+        },
+
+        {
+            "id": 3,
+            "img": "",
+            "faIcon": "fa-solid fa-database",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#CC0000", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "Oracle"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "img": "",
+            "faIcon": "fa-brands fa-php",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#673ab7", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "PHP"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "img": "",
+            "faIcon": "fa-brands fa-windows",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#0295c2", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "Microsoft"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "img": "",
+            "faIcon": "fa-brands fa-linux",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#bbd2c5", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "Linux"
+                }
+            }
+        },
+         {
+            "id": 7,
+            "img": "",
+            "faIcon": "fa-solid fa-feather",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#d38312", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "Apache"
+                }
+            }
+        }
+    ]
+}
+    ]
 }
