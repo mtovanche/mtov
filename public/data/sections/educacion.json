@@ -3,43 +3,32 @@
         "locales": {
             "en": {
                 "title_short": "Title",
-                "title_short_nav": "Title Nav",
-                "title_long_prefix": "This is a",
-                "title_long": " {{Educación}}"
+                "title_short_nav": "Educación",
+                "title_long_prefix": "Esta es mi",
+                "title_long": "Formación  {{Educativa}}"
             }
         }
     },
     "articles": [
         {
     "id": 1,
-    "component": "ArticleThread",
+    "component": "ArticleText",
     "locales": {
-        "en": { "title": "Quick {{Facts}}" }
+        "en": {"title": ""}
     },
     "settings": {
-        "max_rows_collapse_threshold": 3,
-        "order_items_by": "dateStart",
-        "order_items_sort": "desc"
+        "order_items_by": "id",
+        "order_items_sort": "asc"
     },
     "items": [
         {
             "id": 1,
-            "date": {"year": 2022, "month": 9},
-            "preview": {
-                "links": [
-                    {"href": "https://github.com", "tooltipString": "open_link", "faIcon": "fa-brands fa-github"}
-                ],
-                "screenshots": [],
-                "screenshotsAspectRatio": "1:1",
-                "youtubeVideo": "https://www.youtube.com/watch?v=RGTfS-48Gf0"
-            },
+            "img": "",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "faIconColors": {"bg": "", "fill": "", "fillLight": ""},
             "locales": {
                 "en": {
-                    "title": "Got {{promoted!}}",
-                    "province": "Ontario",
-                    "country": "Canada",
-                    "institution": "Tech Company",
-                    "text": "Promoted to Senior Software Engineer at my current company! Excited for the new challenges and responsibilities ahead."
+                    "text": "<ul><li>Primaria: Juan Hernández García año 1992-1998</li><li>Secundaria: Nazario S. Ortiz Garza año 1998-2001.</li><li>Preparatoria: Dr. Mariano Narváez González año 2001-2004.</li><li>Egresado de la Facultad de Sistemas de la Universidad Autónoma de Coahuila año 2004-2009.</li></ul>"
                 }
             }
         }

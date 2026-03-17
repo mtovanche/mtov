@@ -4,7 +4,7 @@
             "en": {
                 "title_short": "Title",
                 "title_short_nav": "Tech Stack",
-                "title_long_prefix": "",
+                "title_long_prefix": "_________________________",
                 "title_long": "Tech {{Stack}}"
             }
         }
@@ -85,7 +85,7 @@
         },
         {
             "id": 6,
-            "img": "",
+            "img": "images/content/linux_one.png",
             "faIcon": "fa-brands fa-linux",
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#bbd2c5", "fillLight": ""},
             "date": {"year": null, "month": null},
@@ -97,7 +97,7 @@
         },
          {
             "id": 7,
-            "img": "",
+            "img": "images/content/apache.png",
             "faIcon": "fa-solid fa-feather",
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#d38312", "fillLight": ""},
             "date": {"year": null, "month": null},
@@ -121,7 +121,7 @@
         },
          {
             "id": 8,
-            "img": "",
+            "img": "images/content/python.png",
             "faIcon": "fa-brands fa-python",
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#7ec6bc", "fillLight": ""},
             "date": {"year": null, "month": null},
@@ -140,6 +140,54 @@
             "locales": {
                 "en": {
                     "title": "shell"
+                }
+            }
+        },
+        {
+            "id": 10,
+            "img": "images/content/canva.png",
+            "faIcon": "fa-solid fa-terminal",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#e9e4f0", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "Canva"
+                }
+            }
+        },
+         {
+            "id": 11,
+            "img": "images/content/photoshop.png",
+            "faIcon": "fa-solid fa-terminal",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#e9e4f0", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "Adobe Photoshop"
+                }
+            }
+        },
+        {
+            "id": 12,
+            "img": "",
+            "faIcon": "fa-brands fa-html5",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#fe8c00", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "HTML5"
+                }
+            }
+        },
+        {
+            "id": 13,
+            "img": "",
+            "faIcon": "fa-brands fa-css3",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#009ffc", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "CSS3"
                 }
             }
         }

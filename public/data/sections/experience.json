@@ -4,7 +4,7 @@
             "en": {
                 "title_short": "Title",
                 "title_short_nav": "Experiencia",
-                "title_long_prefix": "",
+                "title_long_prefix": "______________________",
                 "title_long": "Experiencia {{adquirida}}"
             }
         }

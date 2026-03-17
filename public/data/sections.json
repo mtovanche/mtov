@@ -18,11 +18,19 @@
             "jsonPath": "/data/sections/experience.json",
             "faIcon": "fa-solid fa-briefcase"
         },
+
+         {
+            "id": "educacion",
+            "categoryId": "more",
+            "jsonPath": "/data/sections/educacion.json",
+            "faIcon": "fa-solid fa-building-columns"
+        },
         {
             "id": "contact",
             "categoryId": "more",
             "jsonPath": "/data/sections/contact.json",
             "faIcon": "fa-solid fa-pen-to-square"
         }
+        
     ]
 }
