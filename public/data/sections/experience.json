@@ -4,8 +4,8 @@
             "en": {
                 "title_short": "Title",
                 "title_short_nav": "Experiencia",
-                "title_long_prefix": "This is a",
-                "title_long": "Placeholder {{Title}}"
+                "title_long_prefix": "",
+                "title_long": "Experiencia {{adquirida}}"
             }
         }
     },
@@ -45,7 +45,8 @@
                         "Configuración de impresoras locales y en red.",
                         "Conocimientos de sistemas operativos Windows (XP, Vista, W7, W8, server 2008) y Paquetería de Office (2003, 2007, 2010,2013).",
                         "Administración de Active Directory",
-                        "Virtualziación VMWare"
+                        "Virtualziación VMWare",
+                        "Cursos Active Directory"
                     ]
                 }
             }
@@ -64,14 +65,14 @@
                     "country": "México",
                     "institution": "Coordinación General de Tecnologías de Información y Comunicaciones (UAdeC)",
                     "text": "Subcoordinación de Servicios y Sistemas Operativos (SYSOP) Conocimientos adquiridos en este periodo:",
-                    "text": "Subcoordinación de Servicios y Sistemas Operativos (SYSOP) Conocimientos adquiridos en este periodo:",
                     "list": [
                         "Administración de servidores Windows, Linux",
                         "Mantenimiento preventivo y correctivo",
                         "Atención a usuarios de office 365",
                         "Configuración de redes y equipos de cómputo",
                         "Recuperación y respaldo de información.",
-                        "Virtualización: VMWare, VirtualBox, Hyper-V."
+                        "Virtualización: VMWare, VirtualBox, Hyper-V.",
+                        "Ethical Hacker CEHv8"
                     ]
                 }
             }
@@ -119,7 +120,8 @@
                         "Certificación Microsoft",
                         "Photoshop",
                         "HTML, CSS, Boostrap",
-                        "PHP"
+                        "PHP",
+                        "Microsoft Technology Associate (MTA), Certificación Office"
                     ]
                 }
             }

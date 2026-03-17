@@ -1,0 +1,49 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Title",
+                "title_short_nav": "Title Nav",
+                "title_long_prefix": "This is a",
+                "title_long": " {{Educación}}"
+            }
+        }
+    },
+    "articles": [
+        {
+    "id": 1,
+    "component": "ArticleThread",
+    "locales": {
+        "en": { "title": "Quick {{Facts}}" }
+    },
+    "settings": {
+        "max_rows_collapse_threshold": 3,
+        "order_items_by": "dateStart",
+        "order_items_sort": "desc"
+    },
+    "items": [
+        {
+            "id": 1,
+            "date": {"year": 2022, "month": 9},
+            "preview": {
+                "links": [
+                    {"href": "https://github.com", "tooltipString": "open_link", "faIcon": "fa-brands fa-github"}
+                ],
+                "screenshots": [],
+                "screenshotsAspectRatio": "1:1",
+                "youtubeVideo": "https://www.youtube.com/watch?v=RGTfS-48Gf0"
+            },
+            "locales": {
+                "en": {
+                    "title": "Got {{promoted!}}",
+                    "province": "Ontario",
+                    "country": "Canada",
+                    "institution": "Tech Company",
+                    "text": "Promoted to Senior Software Engineer at my current company! Excited for the new challenges and responsibilities ahead."
+                }
+            }
+        }
+    ]
+}
+    ]
+}

@@ -3,9 +3,9 @@
         "locales": {
             "en": {
                 "title_short": "Title",
-                "title_short_nav": "Title Nav",
-                "title_long_prefix": "This is a",
-                "title_long": "Placeholder {{Title}}"
+                "title_short_nav": "Tech Stack",
+                "title_long_prefix": "",
+                "title_long": "Tech {{Stack}}"
             }
         }
     },
@@ -104,6 +104,42 @@
             "locales": {
                 "en": {
                     "title": "Apache"
+                }
+            }
+        },
+        {
+            "id": 7,
+            "img": "",
+            "faIcon": "fa-brands fa-bootstrap",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#673ab7", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "Bootstrap"
+                }
+            }
+        },
+         {
+            "id": 8,
+            "img": "",
+            "faIcon": "fa-brands fa-python",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#7ec6bc", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "Python"
+                }
+            }
+        },
+        {
+            "id": 9,
+            "img": "",
+            "faIcon": "fa-solid fa-terminal",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#e9e4f0", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "en": {
+                    "title": "shell"
                 }
             }
         }
