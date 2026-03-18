@@ -1,7 +1,7 @@
 {
     "title": {
         "locales": {
-            "en": {
+            "es": {
                 "title_short": "Title",
                 "title_short_nav": "Educación",
                 "title_long_prefix": "Esta es mi",
@@ -14,7 +14,7 @@
     "id": 1,
     "component": "ArticleText",
     "locales": {
-        "en": {"title": ""}
+        "es": {"title": ""}
     },
     "settings": {
         "order_items_by": "id",
@@ -27,7 +27,7 @@
             "faIcon": "fa-solid fa-graduation-cap",
             "faIconColors": {"bg": "", "fill": "", "fillLight": ""},
             "locales": {
-                "en": {
+                "es": {
                     "text": "<ul><li>Primaria: Juan Hernández García año 1992-1998</li><li>Secundaria: Nazario S. Ortiz Garza año 1998-2001.</li><li>Preparatoria: Dr. Mariano Narváez González año 2001-2004.</li><li>Egresado de la Facultad de Sistemas de la Universidad Autónoma de Coahuila año 2004-2009.</li></ul>"
                 }
             }

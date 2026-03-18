@@ -45,7 +45,7 @@
     "id": 1,
     "component": "ArticleText",
     "locales": {
-        "en": {"title": "{{Un poco}} sobre mi..."}
+        "es": {"title": "{{Un poco}} sobre mi..."}
     },
     "settings": {
         "order_items_by": "id",

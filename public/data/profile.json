@@ -6,7 +6,7 @@
     "statusCircleVariant": "available",
     "statusCircleHoverMessage": "status_message_available_for_freelance",
     "locales": {
-        "en": {
+        "es": {
             "localized_name": "Mauricio Tovanche",
             "localized_name_stylized": "<strong>Mauricio {{Tovanche}}</strong>",
             "status_message_available_for_freelance": "Available for freelance!",

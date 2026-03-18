@@ -1,7 +1,7 @@
 {
     "title": {
         "locales": {
-            "en": {
+            "es": {
                 "title_short": "Title",
                 "title_short_nav": "Experiencia",
                 "title_long_prefix": "______________________",
@@ -14,7 +14,7 @@
     "id": 1,
     "component": "ArticleTimeline",
     "locales": {
-        "en": {
+        "es": {
             "title": "My {{timeline}}"
         }
     },

@@ -1,7 +1,7 @@
 {
     "title": {
         "locales": {
-            "en": {
+            "es": {
                 "title_short": "Title",
                 "title_short_nav": "Tech Stack",
                 "title_long_prefix": "_________________________",
@@ -14,7 +14,7 @@
     "id": 1,
     "component": "ArticleStack",
     "locales": {
-        "en": {"title": "{{Backend}} Stack"}
+        "es": {"title": "{{Backend}} Stack"}
     },
     "settings": {
         "order_items_by": "id",
@@ -28,7 +28,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#339933", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "Node.js"
                 }
             }
@@ -41,7 +41,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#0295c2", "fillLight": "#007396"},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "MySQL"
                 }
             }
@@ -54,7 +54,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#CC0000", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "Oracle"
                 }
             }
@@ -66,7 +66,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#673ab7", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "PHP"
                 }
             }
@@ -78,7 +78,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#0295c2", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "Microsoft"
                 }
             }
@@ -90,7 +90,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#bbd2c5", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "Linux"
                 }
             }
@@ -102,7 +102,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#d38312", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "Apache"
                 }
             }
@@ -114,7 +114,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#673ab7", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "Bootstrap"
                 }
             }
@@ -126,7 +126,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#7ec6bc", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "Python"
                 }
             }
@@ -138,7 +138,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#e9e4f0", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "shell"
                 }
             }
@@ -150,7 +150,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#e9e4f0", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "Canva"
                 }
             }
@@ -162,7 +162,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#e9e4f0", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "Adobe Photoshop"
                 }
             }
@@ -174,7 +174,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#fe8c00", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "HTML5"
                 }
             }
@@ -186,7 +186,7 @@
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#009ffc", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
-                "en": {
+                "es": {
                     "title": "CSS3"
                 }
             }

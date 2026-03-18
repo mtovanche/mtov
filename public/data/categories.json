@@ -4,7 +4,7 @@
             "id": "home",
             "faIcon": "fa-regular fa-user",
             "locales": {
-                "en": {
+                "es": {
                     "title": "Home"
                 }
             }
@@ -13,7 +13,7 @@
             "id": "background",
             "faIcon": "fa-regular fa-clock",
             "locales": {
-                "en": {
+                "es": {
                     "title": "History"
                 }
             }
@@ -22,7 +22,7 @@
             "id": "showcase",
             "faIcon": "fa-regular fa-folder-open",
             "locales": {
-                "en": {
+                "es": {
                     "title": "Showcase"
                 }
             }
@@ -31,7 +31,7 @@
             "id": "more",
             "faIcon": "fa-regular fa-object-ungroup",
             "locales": {
-                "en": {
+                "es": {
                     "title": "More"
                 }
             }
