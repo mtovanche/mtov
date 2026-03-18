@@ -1,0 +1,20 @@
+{
+    "name": "Mauricio Tovanche",
+    "profilePictureUrl": "images/content/yo.png",
+    "resumePdfUrl": "",
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+    "locales": {
+        "es": {
+            "localized_name": "Mauricio Tovanche",
+            "localized_name_stylized": "<strong>Mauricio {{Tovanche}}</strong>",
+            "status_message_available_for_freelance": "Available for freelance!",
+            "roles": [
+                "SYSOP"
+            ],
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
+        }
+    }
+}

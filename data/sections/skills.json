@@ -1,0 +1,197 @@
+{
+    "title": {
+        "locales": {
+            "es": {
+                "title_short": "Title",
+                "title_short_nav": "Tech Stack",
+                "title_long_prefix": "_________________________",
+                "title_long": "Tech {{Stack}}"
+            }
+        }
+    },
+    "articles": [
+      {
+    "id": 1,
+    "component": "ArticleStack",
+    "locales": {
+        "es": {"title": "{{Backend}} Stack"}
+    },
+    "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+    },
+    "items": [
+        {
+            "id": 1,
+            "img": "",
+            "faIcon": "fa-brands fa-node-js",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#339933", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Node.js"
+                }
+            }
+        },
+
+        {
+            "id": 2,
+            "img": "",
+            "faIcon": "fa-solid fa-database",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#0295c2", "fillLight": "#007396"},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "MySQL"
+                }
+            }
+        },
+
+        {
+            "id": 3,
+            "img": "",
+            "faIcon": "fa-solid fa-database",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#CC0000", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Oracle"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "img": "",
+            "faIcon": "fa-brands fa-php",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#673ab7", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "PHP"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "img": "",
+            "faIcon": "fa-brands fa-windows",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#0295c2", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Microsoft"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "img": "images/content/linux_one.png",
+            "faIcon": "fa-brands fa-linux",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#bbd2c5", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Linux"
+                }
+            }
+        },
+         {
+            "id": 7,
+            "img": "images/content/apache.png",
+            "faIcon": "fa-solid fa-feather",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#d38312", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Apache"
+                }
+            }
+        },
+        {
+            "id": 7,
+            "img": "",
+            "faIcon": "fa-brands fa-bootstrap",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#673ab7", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Bootstrap"
+                }
+            }
+        },
+         {
+            "id": 8,
+            "img": "images/content/python.png",
+            "faIcon": "fa-brands fa-python",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#7ec6bc", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Python"
+                }
+            }
+        },
+        {
+            "id": 9,
+            "img": "",
+            "faIcon": "fa-solid fa-terminal",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#e9e4f0", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "shell"
+                }
+            }
+        },
+        {
+            "id": 10,
+            "img": "images/content/canva.png",
+            "faIcon": "fa-solid fa-terminal",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#e9e4f0", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Canva"
+                }
+            }
+        },
+         {
+            "id": 11,
+            "img": "images/content/photoshop.png",
+            "faIcon": "fa-solid fa-terminal",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#e9e4f0", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Adobe Photoshop"
+                }
+            }
+        },
+        {
+            "id": 12,
+            "img": "",
+            "faIcon": "fa-brands fa-html5",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#fe8c00", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "HTML5"
+                }
+            }
+        },
+        {
+            "id": 13,
+            "img": "",
+            "faIcon": "fa-brands fa-css3",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#009ffc", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "CSS3"
+                }
+            }
+        }
+    ]
+}
+    ]
+}
