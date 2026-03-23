@@ -28,11 +28,6 @@
             "name": "Español",
             "id": "es",
             "flagUrl": "images/flags/es.png"
-        },
-        {
-            "name": "English",
-            "id": "en",
-            "flagUrl": "images/flags/en-us.png"
         }
     ],
     "supportedThemes": [
