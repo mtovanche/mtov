@@ -20,9 +20,9 @@
     },
     "locales": {
         "es": {
-            "contact_thank_you_title": "{{Thanks}} for the contact!",
-            "contact_thank_you_body": "Your message has been received, and I'll be reaching out to you soon. I appreciate your time and look forward to connecting with you!",
-            "contact_thank_you_footer": "The reply will be sent to your email address: {{$email}}",
+            "contact_thank_you_title": "{{Gracias}} por contactarme!",
+            "contact_thank_you_body": "He recibido tu mensaje y me pondré en contacto contigo pronto. Agradezco tu tiempo y espero poder comunicarme contigo.",
+            "contact_thank_you_footer": "La respuesta se enviará a su dirección de correo electrónico: {{$email}}",
             "title": "Envíame un {{mensaje}}"
         }
     },
