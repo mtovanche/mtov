@@ -190,6 +190,18 @@
                     "title": "CSS3"
                 }
             }
+        },
+        {
+            "id": 14,
+            "img": "",
+            "faIcon": "fa-brands fa-wordpress-simple",
+            "faIconColors": {"bg": "", "bgLight": "", "fill": "#009ffc", "fillLight": ""},
+            "date": {"year": null, "month": null},
+            "locales": {
+                "es": {
+                    "title": "Wordpress"
+                }
+            }
         }
     ]
 }
