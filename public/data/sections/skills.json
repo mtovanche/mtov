@@ -193,7 +193,7 @@
         },
         {
             "id": 14,
-            "img": "",
+            "img": "images/content/wordpress.png",
             "faIcon": "fa fa-wordpress",
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#009ffc", "fillLight": ""},
             "date": {"year": null, "month": null},
