@@ -194,7 +194,7 @@
         {
             "id": 14,
             "img": "",
-            "faIcon": "fa-brands fa-wordpress-simple",
+            "faIcon": "fa fa-wordpress",
             "faIconColors": {"bg": "", "bgLight": "", "fill": "#009ffc", "fillLight": ""},
             "date": {"year": null, "month": null},
             "locales": {
